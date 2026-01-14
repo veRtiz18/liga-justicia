@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Este es un mensaje actualizado completamente desde GitHub
+
+### Esta linea fue agregada desde consola!!!
+Labore dolor elit aliquip labore exercitation cupidatat sint voluptate.
